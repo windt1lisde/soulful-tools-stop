@@ -1,0 +1,28 @@
+{
+  "name": "soulful-tools-stop",
+  "version": "1.0.0",
+  "description": "Zenith Insights is a Node.js module providing a collection of utility functions for gaining insights and reaching the zenith of potential for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windt1lisde/soulful-tools-stop"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "kamidpavil-password-utils": "1.1.4",
+	"lapuhovlamel-image-utils": "1.1.4",
+    "saystellar-essentials": "1.0.0",
+    "zenkit-chat": "1.0.0",
+    "evgeny32-data": "1.1.4",
+    "cook-string-random": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windt1lisde/soulful-tools-stop/issues"
+  },
+  "homepage": "https://github.com/windt1lisde/soulful-tools-stop#readme"
+}
